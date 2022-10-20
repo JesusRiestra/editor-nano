@@ -6,7 +6,7 @@ Guardar archivo --> **Ctrl + O**
 
 Salir del editor --> **Ctrl + X**
 
-
+Eliminar linea completa --> **Ctrl + K**
 
 
 
